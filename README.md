@@ -7,5 +7,6 @@ ___________________________
 - Rust
 - Trying to do not start new projects until I end the ones I'm working at
 
+Actually, my gf was the one who got me into programming to be honest.
 
 
